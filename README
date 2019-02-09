@@ -1,0 +1,17 @@
+        CENTOS-LIBVIRT-CREATOR - CentOS Libvirt Creator
+
+https://github.com/mattias-ohlsson/centos-libvirt-creator
+
+INSTALL
+
+    make install
+
+UNINSTALL
+
+    rm -f /usr/bin/centos-libvirt-creator
+    rm -rf /usr/lib/centos-libvirt-creator
+
+PASSWORDS
+
+  - root: Pass@word01
+  - user: Pass@word01
